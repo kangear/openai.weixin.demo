@@ -10,7 +10,7 @@
 这里一步步来操作
 
 关于生成singedData，正确操作方法如下
-![Image text](./JSON_Web_Token_(JWT).png)
+![Image text](./JSON_Web_Token_JWT.png)
 
 
 关于使用curl测试，官方给出的操作例子如下
