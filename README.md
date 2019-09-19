@@ -9,7 +9,7 @@
 2. curl命令也多少有点问题；
 这里一步步来操作
 
-关于生成singedData，正确操作方法如下
+关于生成singedData，正确操作方法如下(必须严格按照顺序操作)
 ![Image text](./JSON_Web_Token_JWT.png)
 
 
